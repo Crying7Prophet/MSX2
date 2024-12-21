@@ -1,185 +1,576 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734810131975 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734811134110 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810135242 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811137172 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810138308 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811140235 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810141374 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811143296 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810144438 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811146362 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810147569 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811149426 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810150653 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811152494 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810153756 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811155560 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810156815 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811158628 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810159886 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811161689 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810162955 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811164751 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810166026 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811167814 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810169160 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811170877 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810172223 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811173932 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810175390 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811177018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810178461 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811180078 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810181547 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811183149 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810184616 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811186218 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810187687 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811189305 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810190753 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811192366 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810193814 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811195427 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810196901 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811198497 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810199957 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811201552 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810203017 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811204616 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810206071 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811207709 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810209151 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811210764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810212227 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811213828 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810215302 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811216885 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810218362 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811219968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810221421 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811223028 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810224478 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811226084 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810227563 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811229150 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810230619 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811232209 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810233676 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811235334 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810236730 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811238392 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810239820 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811241598 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734810242881 tunnel running, 1 tunnels registered
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811244835 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811247889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811250956 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811254011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811257075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811260152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811263211 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811266274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811269340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811272414 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811275469 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811278547 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811281601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811284729 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811287792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811290851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811293911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811297122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811300187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811303320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811306393 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811309449 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811312544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811315604 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811318740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811321800 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811324864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811327971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811331067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811334122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811337309 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811340366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811343420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811346473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811349532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811352752 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811355805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811358859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811361918 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811364977 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811368034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811371086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811374146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811377198 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811380262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811383340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811386396 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811389451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811392509 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811395576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811398652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811401711 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811404768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811407825 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811410876 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811413932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811416990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811420062 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811423134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734811426193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+perfect-massage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+think-armenia.gl.at.ply.gg:4114 => 127.0.0.1:4114 (proto: Udp, port count: 1)
